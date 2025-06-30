@@ -80,21 +80,91 @@ The application uses a
 
 ----------
 
-## 📸 Screenshots
+## 📸 Some Screenshots
 
 ### **Web Application**
 
+----------
+----------
+
+### **For Buyers & Sellers (Clients)**
+
+**login page**
+![image](https://github.com/user-attachments/assets/2022a7ec-2fd6-4ed8-b548-fa95621d6ec5)
+
 **Profile Page**
+![image](https://github.com/user-attachments/assets/51f7b65d-72eb-4088-b9c8-17802481083b)
+
+**Edit Profile Page**
+![image](https://github.com/user-attachments/assets/fbd98d34-bd44-4995-98c2-f14076983da8)
 
 **Add Auction**
+![image](https://github.com/user-attachments/assets/8fc89c7a-1299-4ea3-9a12-6758547143e4)
+
+**Home Page**
+![image](https://github.com/user-attachments/assets/99a14f96-ff17-4d92-be0b-d4e70832381c)
+
+**Auction Page**
+![image](https://github.com/user-attachments/assets/02da8220-4770-4b4b-b47c-6b3ad604748d)
+
+**Payment Page**
+![image](https://github.com/user-attachments/assets/cb3a51a1-f8da-4fb4-a5f1-b223efbde72a)
+
+**Bought Auctions Page**
+![image](https://github.com/user-attachments/assets/aafa4bc3-2308-4929-9bba-3da980c6dd17)
+
+**Sold Auctions Page**
+![image](https://github.com/user-attachments/assets/ddc5dc81-2ec1-42aa-b692-c68b512626ff)
+
+----------
+----------
+
+### **For The Commissioner**
+
+**User Manager Page**
+![image](https://github.com/user-attachments/assets/496db852-b586-4b02-aff1-f294b4b5d63d)
+
+**Transactions Page**
+![image](https://github.com/user-attachments/assets/03703e47-3ffd-4406-9b39-6c36bb307ef3)
+
+**Add Transporter**
+![image](https://github.com/user-attachments/assets/efb0b0b5-13c7-4fca-9aa5-d5ed190c807d)
+
+----------
+----------
+
+### **For The Transporter**
+
+**Delivery Management**
+![image](https://github.com/user-attachments/assets/c449f1b7-37cf-4950-aa7c-8bf0516dbedb)
+
+**Order Tracking && Status Updates**
+![image](https://github.com/user-attachments/assets/d57c37a4-970d-4b9e-aeec-2410aaaadf28)
+
+
 
 ### **Mobile Application**
 
+**Login**
+![image](https://github.com/user-attachments/assets/743d1bff-eabc-4c76-a579-1fe2a0024947)
+
+**SignUp**
+![image](https://github.com/user-attachments/assets/05c92769-6f31-472f-9fba-7c0adeda81ca)
+
+**Profile**
+![image](https://github.com/user-attachments/assets/2005ffa4-be2c-414d-8523-92be2e82e000)
+
+**Edit Profile**
+![image](https://github.com/user-attachments/assets/82a41696-6f44-4b7b-860c-d2cefcf601ae)
+
 **All Auctions**
+![image](https://github.com/user-attachments/assets/fbf06f46-0c67-4024-82aa-16db72c61094)
 
 **Auction Details**
+![image](https://github.com/user-attachments/assets/893220a1-c6bf-414b-8a3a-20d3cccec96d)
 
 **Add Auction**
+![image](https://github.com/user-attachments/assets/33b8cfd4-af82-436b-bd61-94b368bf3a1d)
 
 ----------
 
