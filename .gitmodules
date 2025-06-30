@@ -1,0 +1,9 @@
+[submodule "web-client"]
+	path = web-client
+	url = https://github.com/lmontassar/SandD_Client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/lmontassar/SandD_Server.git
+[submodule "mobile-app"]
+	path = mobile-app
+	url = https://github.com/lmontassar/SandD_Vmobile.git
